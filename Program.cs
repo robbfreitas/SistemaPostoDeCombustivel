@@ -31,7 +31,7 @@
                 pedido = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("Obrigo!");
+            Console.WriteLine("Obrigado!");
 
             Console.WriteLine("Álcool {0}", alcool);
             Console.WriteLine("Gasolina {0}", gasolina);
